@@ -18,3 +18,6 @@ https://password-generator-phi-one-17.vercel.app/
 
 ## 📂 How to Run
 Open index.html in browser
+
+## 📸 Preview
+![App Screenshot](screenshot.png)
